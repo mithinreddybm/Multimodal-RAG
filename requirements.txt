@@ -1,0 +1,13 @@
+
+torch
+transformers
+sentence-transformers
+Pillow
+scikit-learn
+matplotlib
+opencv-python
+tqdm
+jupyter
+numpy
+pandas
+requests
